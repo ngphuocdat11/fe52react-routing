@@ -1,0 +1,32 @@
+==== Buoi 9 ====
+ * Routing (basic)
+    npm install react-router-dom --save
+    - Homepage
+    - About
+    - ListMovie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+ * HTTP & Axios
+    npm install axios --save  <=> fetch
+    - Lấy danh sách phim.
